@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+Informático;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Especialista+en+Meta+Business;Cofounder%20Insoftline%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">🎓 Ingeniero Informático | 💼 Co-Founder & Product Owner en Insoftline  
+<h4 align="left">🎓 Ingeniero Informático | 💼 Co-Founder & Product Owner en Insoftline  
 📍 Santa Cruz de la Sierra, Bolivia | 🌐 Apasionado por la tecnología, el desarrollo y la innovación
 
 ---
