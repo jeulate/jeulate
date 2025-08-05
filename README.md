@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+Informático;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Especialista+en+Meta+Business;Cofounder%20Insoftline%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">🎓 Ingeniero Informático | 💼 Co-Founder & Product Owner en Insoftline  
+📍 Santa Cruz de la Sierra, Bolivia | 🌐 Apasionado por la tecnología, el desarrollo y la innovación</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
