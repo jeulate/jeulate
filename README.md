@@ -5,7 +5,21 @@
 </p>
 <hr/>
 <h4 align="center">🎓 Ingeniero Informático | 💼 Co-Founder & Product Owner en Insoftline  
-📍 Santa Cruz de la Sierra, Bolivia | 🌐 Apasionado por la tecnología, el desarrollo y la innovación</h4>
+📍 Santa Cruz de la Sierra, Bolivia | 🌐 Apasionado por la tecnología, el desarrollo y la innovación
+
+---
+
+Con más de **10 años de experiencia profesional**, he recorrido un camino sólido en el mundo de la tecnología, liderando y desarrollando soluciones digitales que generan impacto. Actualmente, soy **Cofundador y Product Owner de Insoftline**, empresa enfocada en el desarrollo de software a medida, soluciones web y estrategias de marketing digital inmobiliario.
+
+Me especializo en:
+
+- 🧠 Desarrollo backend con Java, PHP y Python  
+- 🌍 Desarrollo de soluciones web y comercio electrónico  
+- 🚀 Posicionamiento de marcas y estrategia digital con enfoque en Meta Business  
+- 🛠️ Automatización, integración continua y herramientas DevOps  
+- 🤝 Consultoría tecnológica y acompañamiento en transformación digital  
+
+---</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
