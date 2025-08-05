@@ -13,13 +13,19 @@ Con más de **10 años de experiencia profesional**, he recorrido un camino sól
 
 Me especializo en:
 
-- 🧠 Desarrollo backend con Java, PHP y Python  
+- 🧠 Desarrollo backend con Java, PHP y React 
 - 🌍 Desarrollo de soluciones web y comercio electrónico  
 - 🚀 Posicionamiento de marcas y estrategia digital con enfoque en Meta Business  
 - 🛠️ Automatización, integración continua y herramientas DevOps  
 - 🤝 Consultoría tecnológica y acompañamiento en transformación digital  
 
----</h4>
+---
+### 📬 ¿Conectamos?
+Si tienes una idea que puede cambiar el mundo, quieres colaborar en proyectos o simplemente compartir experiencias:
+
+📩 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/jaeulate/)  
+🌐 Visita [Insoftline](https://insoftline.com) para conocer más sobre lo que hacemos  
+</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
